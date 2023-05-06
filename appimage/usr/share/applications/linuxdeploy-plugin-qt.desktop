@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=linuxdeploy-plugin-qt
+Exec=linuxdeploy-plugin-qt %f
+Icon=linuxdeploy-plugin-qt
+Terminal=true
+NoDisplay=true
+Type=Application
+Categories=Development;
+X-AppImage-Integrate=false
